@@ -1,0 +1,12 @@
+com\workfusion\assign\pages\MainPage.class
+com\workfusion\assign\pages\BasePage.class
+com\workfusion\assign\service\EmailService$1.class
+configs\main\catofashions-locations.xml
+com\workfusion\assign\task\CatofashionsLocationsTask.class
+com\workfusion\assign\client\FashionClient.class
+com\workfusion\assign\pages\StoresPage.class
+configs\main\hello-world-mail.xml
+com\workfusion\assign\service\EmailService.class
+com\workfusion\assign\task\HelloWorldMailTask.class
+com\workfusion\assign\pages\StateStoresPage.class
+com\workfusion\assign\dto\LocationDto.class
